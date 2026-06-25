@@ -10,12 +10,11 @@
 
 ## 🚀 Sobre mim
 
-Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai. Atuo como Analista de Inteligência de Produto na Sotreq (revendedor oficial Caterpillar no Brasil), onde transformo dados operacionais em decisões estratégicas para gestão de frota e locação de equipamentos pesados.
+Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai. Atuo como Analista de Inteligência de Produto na Sotreq, onde transformo dados operacionais em decisões estratégicas para gestão de frota e locação de equipamentos pesados.
 
 - 🏗️ Atualmente atuando como **Analista Jr. de Inteligência de Produto – Aluguel** na Sotreq
 - 📊 Desenvolvendo dashboards **Power BI** com modelagem DAX e integração SAP ETM
 - 🐍 Em transição ativa para **Data Science & Analytics** com Python
-- 🎓 Participando de programa de **mentoria em dados** (12 sessões estruturadas)
 - ✍️ Construindo portfólio público de projetos de dados
 
 ---
@@ -30,7 +29,7 @@ Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai.
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Projetos 
 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
@@ -67,7 +66,7 @@ Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caiohenrique-vieira//">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
