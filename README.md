@@ -22,10 +22,9 @@ Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai.
 ## 🧰 Especialidades
 
 - 📊 **Power BI & DAX** — Dashboards operacionais, modelagem estrela, medidas avançadas
-- 🐍 **Python** — Pandas, Scikit-learn, Streamlit, automação de pipelines
-- 🗄️ **Dados Operacionais** — SAP ETM, gestão de frota, CAPEX, PSC
-- 🔧 **Engenharia Mecânica** — Manutenção preditiva, equipamentos pesados CAT
-- 📈 **Visualização de Dados** — Storytelling com dados, design Caterpillar (tokens de cor e tipografia)
+- 🐍 **Python** — Pandas, Streamlit, automação de pipelines
+- 🗄️ **Dados Operacionais** — SAP ETM, frota rental, CAPEX
+- 🔧 **Engenharia Mecânica** — Insdustria, manutenção, modelagem CAD
 
 ---
 
