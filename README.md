@@ -39,15 +39,6 @@ Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cjinfoaulas-psy&show_icons=true&theme=default&hide_border=true&title_color=185FA5&icon_color=F5C000&text_color=333333" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjinfoaulas-psy&layout=compact&hide_border=true&title_color=185FA5&text_color=333333" alt="Top Languages"/>
-</p>
-
----
-
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
