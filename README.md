@@ -53,7 +53,7 @@ Engenheiro Mecânico formado pela Uninove, com técnico em Mecânica pelo Senai.
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caiohenrique-vieira//">
+  <a href="https://www.linkedin.com/in/caiohenrique-vieira//">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
