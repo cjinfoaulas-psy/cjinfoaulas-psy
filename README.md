@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Caio Henrique
 
-**Engenheiro Mecânico • Analista de Inteligência de Produto • Data Science**
+**Engenheiro Mecânico • Analista de Inteligência de Produto**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cjinfoaulas-psy&label=Visualiza%C3%A7%C3%B5es&color=185FA5&style=flat" alt="Profile views"/>
